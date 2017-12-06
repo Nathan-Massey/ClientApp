@@ -20,5 +20,10 @@ CREATE TABLE Orders
 	Created DATE NOT NULL,
 	Shipped BIT NOT NULL, -- Boolean
 
-	Client_Id INT -- Foreign Key from Client table
+	Client_Id INT FOREIGN KEY REFERENCES Client(Id)-- Foreign Key from Client table
 )
+
+-- New column for table orders
+
+ALTER TABLE Orders
+ADD total money;

@@ -1,0 +1,9 @@
+C:\Users\Nathan\Documents\ClientApp\ClientApp\DataService\bin\Debug\Database.mdf
+C:\Users\Nathan\Documents\ClientApp\ClientApp\DataService\bin\Debug\Database_log.ldf
+C:\Users\Nathan\Documents\ClientApp\ClientApp\DataService\bin\Debug\DataService.dll.config
+C:\Users\Nathan\Documents\ClientApp\ClientApp\DataService\bin\Debug\DataService.dll
+C:\Users\Nathan\Documents\ClientApp\ClientApp\DataService\bin\Debug\DataService.pdb
+C:\Users\Nathan\Documents\ClientApp\ClientApp\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\ClientApp\ClientApp\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\ClientApp\ClientApp\DataService\obj\Debug\DataService.dll
+C:\Users\Nathan\Documents\ClientApp\ClientApp\DataService\obj\Debug\DataService.pdb
