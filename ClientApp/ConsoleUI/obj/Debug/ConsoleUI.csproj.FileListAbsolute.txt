@@ -1,0 +1,14 @@
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\bin\Debug\Database.mdf
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\bin\Debug\Database_log.ldf
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\bin\Debug\DataService.dll
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\bin\Debug\ServiceLayer.dll
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\bin\Debug\DataService.pdb
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\bin\Debug\DataService.dll.config
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\bin\Debug\ServiceLayer.pdb
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Nathan\Documents\ClientApp\ClientApp\ConsoleUI\bin\Debug\ConsoleUI.pdb
